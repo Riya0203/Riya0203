@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riya0203
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently pursuing Bachelor's of Computer Science  
+- 🌱 I’m currently pursuing a Master of Computer Application 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
